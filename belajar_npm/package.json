@@ -1,0 +1,17 @@
+{
+  "name": "belajar_npm",
+  "version": "1.0.0",
+  "description": "first learning",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev_run": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anton effendi",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.7.0"
+  }
+}
